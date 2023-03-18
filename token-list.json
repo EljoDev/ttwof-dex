@@ -1,0 +1,193 @@
+[{
+	"name": "Seal",
+	"symbol": "Seal",
+	"tokenAddress": "0xff938bf442acef553441f06f35d2871a7393ec2e",
+	"website": "https://ttguess-b5023.web.app/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x2597805a4f84f186fd0940b2e72161dbcf512874"
+}, {
+	"name": "USD Coin",
+	"symbol": "USDC",
+	"tokenAddress": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
+	"website": "https://multichain.org/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98"
+}, {
+	"name": "Wrapped BTC",
+	"symbol": "WBTC",
+	"tokenAddress": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+	"website": "https://multichain.org/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454"
+}, {
+	"name": "Ethereum",
+	"symbol": "ETH",
+	"tokenAddress": "0xe6801928061cdbe32ac5ad0634427e140efd05f9",
+	"website": "https://multichain.org/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xe6801928061cdbe32ac5ad0634427e140efd05f9"
+}, {
+	"name": "Shark",
+	"symbol": "Shark",
+	"tokenAddress": "0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9",
+	"website": "https://ttguess-b5023.web.app/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x702e4d170a8bc4ec0ce10dfa71fbe55c0e763e59"
+}, {
+	"name": "Prize",
+	"symbol": "Prize",
+	"tokenAddress": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
+	"website": "https://www.prize-dapp.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x4456A109F7E9079d35567FD919255027dC7fB3F9"
+}, {
+	"name": "Dolphin",
+	"symbol": "Dolphin",
+	"tokenAddress": "0xD3e916699dA7266EF673d10342334e25cfFc2Ab6",
+	"website": "https://ttguess-b5023.web.app/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x6a50c7bd3d60ce526346aa9e0767c1782f7d9f5f"
+}, {
+	"name": "NFTmall GEM Token",
+	"symbol": "GEM",
+	"tokenAddress": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+	"website": "https://NFTmall.io/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0"
+}, {
+	"name": "Techno Fun",
+	"symbol": "TFN",
+	"tokenAddress": "0xFA9DbFc80A3cFdd7192ccee23567d7bA58ea6F07",
+	"website": "https://tfunfun.xyz/home",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xFA9DbFc80A3cFdd7192ccee23567d7bA58ea6F07"
+}, {
+	"name": "XY Token",
+	"symbol": "XY",
+	"tokenAddress": "0x333333331193762b9dd5828fA91aFA40d8432B7A",
+	"website": "https://xy.finance/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x333333331193762b9dd5828fA91aFA40d8432B7A"
+}, {
+	"name": "Avalanche",
+	"symbol": "AVAX",
+	"tokenAddress": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+	"website": "https://bridge.multichain.org/#/router",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8"
+}, {
+	"name": "ApeCoin",
+	"symbol": "APE",
+	"tokenAddress": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+	"website": "https://bridge.multichain.org/#/router",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b"
+}, {
+	"name": "Dai Stablecoin",
+	"symbol": "DAI",
+	"tokenAddress": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+	"website": "https://bridge.multichain.org/#/router",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x461d52769884ca6235B685EF2040F47d30C94EB5"
+}, {
+	"name": "Planet Master Token",
+	"symbol": "PMT",
+	"tokenAddress": "0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7",
+	"website": "https://master.diceplanet.xyz/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7"
+}, {
+	"name": "Tether",
+	"symbol": "TT-USDT",
+	"tokenAddress": "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82"
+}, {
+	"name": "NICER",
+	"symbol": "NICER",
+	"tokenAddress": "0x1F489E0282cFA883A4224C91309bC4D4c062ed93",
+	"website": "https://nicer.bet/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x1F489E0282cFA883A4224C91309bC4D4c062ed93"
+}, {
+	"name": "Wrapped Bitcoin",
+	"symbol": "TT-WBTC",
+	"tokenAddress": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x18fB0A62f207A2a082cA60aA78F47a1af4985190"
+}, {
+	"name": "USD Coin",
+	"symbol": "TT-USDC",
+	"tokenAddress": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e"
+}, {
+	"name": "Ethereum",
+	"symbol": "TT-ETH",
+	"tokenAddress": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077"
+}, {
+	"name": "RISER",
+	"symbol": "RISER",
+	"tokenAddress": "0xc1e7000f379f2247ae930ba98d5568cd9d0b924b",
+	"website": "https://riserdefi.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xc1e7000f379f2247ae930ba98d5568cd9d0b924b"
+}, {
+	"name": "Binance USD",
+	"symbol": "TT-BUSD",
+	"tokenAddress": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171"
+}, {
+	"name": "Binance Coin",
+	"symbol": "TT-BNB",
+	"tokenAddress": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69"
+}, {
+	"name": "Punch",
+	"symbol": "PUNCH",
+	"tokenAddress": "0x8c2eeccd83752db11594e699bbc8f756c4d03cb9",
+	"website": "https://game.punchlinex.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x8c2eeccd83752db11594e699bbc8f756c4d03cb9"
+}, {
+	"name": "Ram",
+	"symbol": "RAM",
+	"tokenAddress": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
+	"website": "https://rammer.finance/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xfE146D5710015d4075355fb7bE8d133346EC63c2"
+}, {
+	"name": "Oolong",
+	"symbol": "OOL",
+	"tokenAddress": "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10",
+	"website": "https://oolong.fi/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10"
+}, {
+	"name": "GuessToken",
+	"symbol": "GuessToken",
+	"tokenAddress": "0xe15c1cbF2de3fd15864F48A66b9da07736dAF578",
+	"website": "https://ttguess-b5023.web.app/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xe15c1cbF2de3fd15864F48A66b9da07736dAF578"
+}, {
+	"name": "Zippy Dice",
+	"symbol": "DICEZ",
+	"tokenAddress": "0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f",
+	"website": "https://dice.zippydapps.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f"
+}, {
+	"name": "ZIPPY",
+	"symbol": "ZIPPY",
+	"tokenAddress": "0xD46d770b3032D92D9E1d4e5B925bB8840cDB4314",
+	"website": "https://zippydapps.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xD46d770b3032D92D9E1d4e5B925bB8840cDB4314"
+}, {
+	"name": "Acorn",
+	"symbol": "ACORN",
+	"tokenAddress": "0x6E690DaC861fE7441770f84146F263d1CFBE909C",
+	"website": "https://acornstable.fi/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x6E690DaC861fE7441770f84146F263d1CFBE909C"
+}, {
+	"name": "Huobi Token",
+	"symbol": "HT",
+	"tokenAddress": "0x0212b1F75503413b01A98158434c4570FB6e808c",
+	"website": "https://bridge.thundercore.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x0212b1F75503413b01A98158434c4570FB6e808c"
+}, {
+	"name": "Zippy Hodl",
+	"symbol": "HODLZ",
+	"tokenAddress": "0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166",
+	"website": "https://hodl.zippydapps.com/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166"
+}, {
+	"name": "Farm Thunder Token",
+	"symbol": "FTT",
+	"tokenAddress": "0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA",
+	"website": "https://ttfarm.xyz/",
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA"
+}]
