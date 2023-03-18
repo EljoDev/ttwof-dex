@@ -1,4 +1,11 @@
 [{
+	"name": "TT",
+	"symbol": "TT",
+	"tokenAddress": "TT",
+	"website": "https://thundercore.com",
+	"blockExplorer": "https://viewblock.io/thundercore/"
+	"icon": "https://wtt.thundercore.com/favicon.ico"
+}, {	
 	"name": "Seal",
 	"symbol": "Seal",
 	"tokenAddress": "0xff938bf442acef553441f06f35d2871a7393ec2e",
