@@ -32,7 +32,7 @@
 	"tokenAddress": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
 	"website": "https://bridge.thundercore.com/",
 	"blockExplorer": "https://viewblock.io/thundercore/address/0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
-	"icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
+	"icon": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg?v=024"
 }, {
 	"name": "Ethereum",
 	"symbol": "TT-ETH",
@@ -61,7 +61,9 @@
 	"symbol": "USDC",
 	"tokenAddress": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
 	"website": "https://multichain.org/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
+	"icon": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg"
+
 }, {
 	"name": "Acorn",
 	"symbol": "ACORN",
@@ -74,18 +76,24 @@
 	"tokenAddress": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
 	"website": "https://bridge.multichain.org/#/router",
 	"blockExplorer": "https://viewblock.io/thundercore/address/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b"
+	"icon": "https://cryptologos.cc/logos/apecoin-ape-ape-logo.svg"
+
 }, {
 	"name": "Avalanche",
 	"symbol": "AVAX",
 	"tokenAddress": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
 	"website": "https://bridge.multichain.org/#/router",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+	"icon": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
+
 }, {
 	"name": "Dai Stablecoin",
 	"symbol": "DAI",
 	"tokenAddress": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
 	"website": "https://bridge.multichain.org/#/router",
 	"blockExplorer": "https://viewblock.io/thundercore/address/0x461d52769884ca6235B685EF2040F47d30C94EB5"
+	"icon": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
+
 }, {
 	"name": "Zippy Dice",
 	"symbol": "DICEZ",
@@ -103,7 +111,9 @@
 	"symbol": "ETH",
 	"tokenAddress": "0xe6801928061cdbe32ac5ad0634427e140efd05f9",
 	"website": "https://multichain.org/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0xe6801928061cdbe32ac5ad0634427e140efd05f9"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xe6801928061cdbe32ac5ad0634427e140efd05f9",
+	"icon": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
+
 }, {
 	"name": "Farm Thunder Token",
 	"symbol": "FTT",
