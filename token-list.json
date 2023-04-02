@@ -46,14 +46,16 @@
 	"tokenAddress": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
 	"website": "https://bridge.thundercore.com/",
 	"blockExplorer": "https://viewblock.io/thundercore/address/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
-	"icon": "https://cryptologos.cc/logos/ethereum-usdc-logo.svg"
+	"icon": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg"
 
 }, {
 	"name": "Tether",
 	"symbol": "TT-USDT",
 	"tokenAddress": "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82",
 	"website": "https://bridge.thundercore.com/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82",
+	"icon": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
+
 }, {
 	"name": "USD Coin",
 	"symbol": "USDC",
