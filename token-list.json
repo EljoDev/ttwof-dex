@@ -10,37 +10,44 @@
 	"symbol": "WBTC",
 	"tokenAddress": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
 	"website": "https://multichain.org/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+	"icon": "https://wbtc.network/assets/WBTC-icon.svg"
 }, {
 	"name": "Wrapped Bitcoin",
 	"symbol": "TT-WBTC",
 	"tokenAddress": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
 	"website": "https://bridge.thundercore.com/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0x18fB0A62f207A2a082cA60aA78F47a1af4985190"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
+	"icon": "https://wbtc.network/assets/WBTC-icon.svg"
 }, {
 	"name": "Binance Coin",
 	"symbol": "TT-BNB",
 	"tokenAddress": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
 	"website": "https://bridge.thundercore.com/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+	"icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
 }, {
 	"name": "Binance USD",
 	"symbol": "TT-BUSD",
 	"tokenAddress": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
 	"website": "https://bridge.thundercore.com/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
+	"icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
 }, {
 	"name": "Ethereum",
 	"symbol": "TT-ETH",
 	"tokenAddress": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
 	"website": "https://bridge.thundercore.com/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+	"icon": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
 }, {
 	"name": "USD Coin",
 	"symbol": "TT-USDC",
 	"tokenAddress": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
 	"website": "https://bridge.thundercore.com/",
-	"blockExplorer": "https://viewblock.io/thundercore/address/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e"
+	"blockExplorer": "https://viewblock.io/thundercore/address/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
+	"icon": "https://cryptologos.cc/logos/ethereum-usdc-logo.svg"
+
 }, {
 	"name": "Tether",
 	"symbol": "TT-USDT",
